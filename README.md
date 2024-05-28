@@ -149,14 +149,11 @@ El tercer sprint estará dirigido hacia el Data Anlysis y machine Learning, en e
 
 ### Cloud 
 ![Amazon S3](https://img.shields.io/badge/AWS%20S3-black?style=flat&logo=Amazon%20S3)
-![AWS Athena](https://img.shields.io/badge/AWS%20Athena-black?style=flat&logo=Amazon%20AWS&logoColor=purple)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-black?style=flat&logo=Amazon%20Redshift&logoColor=purple)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-black?style=flat&logo=AWS%20lambda)
-![AWS EventBridge](https://img.shields.io/badge/AWS%20EventBridge-black?style=flat&logo=aws%20lambda&logoColor=%20pink)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-black?style=flat&logo=AWS%20OrganizationS&logoColor=blue)
-![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-black?style=flat&logo=AmazonAWS&logoColor=green)
-![AWS Quicksight](https://img.shields.io/badge/AWS%20Quicksight-black?style=flat&logo=AmazonAWS&logoColor=yellow)
-![Pyspark](https://img.shields.io/badge/Pyspark-black?style=flat&logo=apache%20spark)
-![Render](https://img.shields.io/badge/Render-black?style=flat&logo=RENDER)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-black?style=flat&logo=AWS%20OrganizationS&logoColor=purple)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-black?style=flat&logo=amazonec2&logoColor=#FF9900)
+![PySpark](https://img.shields.io/badge/PySpark-black?style=flat&logo=apache%20spark)
 
 
 ## Fuentes de datos y recursos
